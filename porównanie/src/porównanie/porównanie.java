@@ -16,6 +16,5 @@ public class porównanie {
 	else
 	System.out.println("a jest mniejsze od b");
 	
-	
 	}
 }
